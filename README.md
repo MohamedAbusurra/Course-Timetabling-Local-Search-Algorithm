@@ -1,5 +1,3 @@
-# CS456 course project
-
 # Course Timetabling Local Search
 
 Local-search based solver for a course timetabling problem. Two algorithms are provided: a hill climbing and simulated annealing with temperature based acceptance. Both use the same fitness to score schedule quality (lower is better) and operate on a 6×4 day/slot timetable.
